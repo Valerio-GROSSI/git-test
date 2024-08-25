@@ -1,7 +1,7 @@
 class vehicule:
   """
   Voici un exemple de classe "vehicule" qui contient le plan de conception
-  d'objets "véhicules"
+  d'objets "véhicules" :)
   """
 
   # Une classe commence par une fonction initialisation qui contient les différents attributs
